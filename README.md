@@ -22,6 +22,7 @@ Users can view, edit, and like memes, with images and stats inspired by Pokémon
 ---
 
 ## 📁 Project Structure
+```bash
 .
 ├── components/ # UI components 
 ├── context/ # Global context (PokemonContext) 
@@ -31,7 +32,7 @@ Users can view, edit, and like memes, with images and stats inspired by Pokémon
 ├── styles/ # Tailwind configs 
 ├── next.config.js # Image domains setup 
 └── README.md
-
+```
 
 ---
 
