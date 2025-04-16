@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        {/* Тут можна додати шрифти, favicon, мета-теги */}
+        {/* додати шрифти, favicon, мета-теги */}
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <body className="bg-gray-50">

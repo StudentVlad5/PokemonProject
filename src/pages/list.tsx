@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react'
 import { usePokemonContext, Pokemon } from "../context/PokemonContext";
-import Image from 'next/image';
 import MemeImage from '@/components/MemeImage';
 
 export default function ListPage() {
